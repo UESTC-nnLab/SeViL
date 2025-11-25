@@ -30,9 +30,9 @@ Unlike traditional object detection, moving infrared small target detection is h
 
 | Method   | Dataset    | mAP50 (%) | Precision (%) | Recall (%) | F1 (%)  | Labeled                     |
 |----------|------------|-----------|---------------|------------|---------|------------------------------|
-| SeViL   | DAUB  | 95.13     | 98.14        | 99.19      | 98.66   |                              |
+| SeViL   | DAUB  | 95.13     | 98.14        | 99.19      | 98.66   |               10%                 |
 | SeViL   | ITSDT-15K     | 80.18     | 88.96         | 91.46      | 90.20   |      10%                     |
-| SeViL   | IRDST    | 74.62     | 86.53         | 87.82      | 87.17   |                              |
+| SeViL   | IRDST    | 74.62     | 86.53         | 87.82      | 87.17   |            10%                   |
 
 - PR curves on DAUB, ITSDT-15K and IRDST datasets in this paper.
 ![PR](readme/PR.png)
