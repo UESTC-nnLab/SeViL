@@ -1,6 +1,5 @@
 # SeViL
-[AAAI 26] SeViL: Semi-supervised Vision-Language Learning with Text Prompt Guiding for Moving Infrared Small Target Detection
-
+**[AAAI 26] SeViL: Semi-supervised Vision-Language Learning with Text Prompt Guiding for Moving Infrared Small Target Detection**
 
 ![frame](readme/SeViL.png)
 
@@ -45,6 +44,30 @@ Unlike traditional object detection, moving infrared small target detection is h
 ```
 python tools/misc/split_daub.py
 ```
+
+- The folder structure should look like this:
+
+```
+ITSDT
+├─instances_train2017.json
+├─instances_test2017.json
+├─coco_train_ITSDT.txt
+├─coco_val_ITSDT.txt
+├─images
+│   ├─1
+│   │   ├─0.bmp
+│   │   ├─1.bmp
+│   │   ├─2.bmp
+│   │   ├─ ...
+│   ├─2
+│   │   ├─0.bmp
+│   │   ├─1.bmp
+│   │   ├─2.bmp
+│   │   ├─ ...
+│   ├─3
+│   │   ├─ ...
+```
+
 
 ## Usage
 
