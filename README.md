@@ -93,13 +93,13 @@ IF any questions, please contact with Weiwei Duan via email: [dwwuestc@163.com](
 
 ## citation
 ```
-@inproceedings{duan2026cross,
-  title={Cross-domain Joint Learning with Prototype-guided Mixture-of-Experts for Infrared Moving Small Target Detection},
-  author={Duan, Weiwei and Ji, Luping and Huang, Jianghong and Zhu, Sicheng and Ye, Mao},
+@inproceedings{duan2026sevil,
+  title={SeViL: Semi-supervised Vision-Language Learning with Text Prompt Guiding for Moving Infrared Small Target Detection},
+  author={Duan, Weiwei and Ji, Luping and Huang, Jianghong and Zhu, Sicheng},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   volume={40},
   number={5},
-  pages={3732--3740},
+  pages={3723--3731},
   year={2026}
 }
 ```
