@@ -89,3 +89,17 @@ IF any questions, please contact with Weiwei Duan via email: [dwwuestc@163.com](
 ## References
 - Chen, K., Wang, J., Pang, J., Cao, Y., Xiong, Y., Li, X., ... & Lin, D. (2019). MMDetection: Open mmlab detection toolbox and benchmark. arXiv preprint arXiv:1906.07155.
 - Chen, Z., Zhang, W., Wang, X., Chen, K., & Wang, Z. (2023). Mixed pseudo labels for semi-supervised object detection. arXiv preprint arXiv:2312.07006.
+
+
+## citation
+```
+@inproceedings{duan2026cross,
+  title={Cross-domain Joint Learning with Prototype-guided Mixture-of-Experts for Infrared Moving Small Target Detection},
+  author={Duan, Weiwei and Ji, Luping and Huang, Jianghong and Zhu, Sicheng and Ye, Mao},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={5},
+  pages={3732--3740},
+  year={2026}
+}
+```
